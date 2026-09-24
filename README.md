@@ -6,9 +6,9 @@ Aplikasi Android Halaman Profil sederhana yang dibangun menggunakan **Android St
 
 ## 👤 Informasi Mahasiswa
 
-* **Nama** : [Isi Nama Anda]
-* **NIM**  : [Isi NIM Anda]
-* **Kelas**: [Isi Kelas Anda]
+* **Nama** : Arevanda Lazuardi Arrayan
+* **NIM**  : 24515040711084
+* **Kelas**: Pengembangan Aplikasi Mobile D
 
 ---
 
